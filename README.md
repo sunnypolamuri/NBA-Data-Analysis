@@ -63,14 +63,14 @@ This project focuses on creating a comprehensive dashboard to analyze NBA player
 
 ---
 
-### 5. **Testing & Feedback (1 Week)**
+### 5. **Testing & Feedback**
 
 - Conduct user testing for usability and actionable insights.
 - Refine dashboard visuals, metrics, and layout based on feedback.
 
 ---
 
-### 6. **Final Report & Recommendations (1 Week)**
+### 6. **Final Report & Recommendations**
 
 - Provide weekly reports highlighting:
   - Emerging players with changing minutes.
