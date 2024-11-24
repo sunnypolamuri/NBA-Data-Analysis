@@ -30,6 +30,9 @@ This project focuses on creating a comprehensive dashboard to analyze NBA player
 - **Standardization**: Ensure consistency in player names, positions, and team names.
 - **Recency Filtering**: Prioritize recent games (e.g., last 15-20) to highlight current trends.
 - **Undervalued Player Identification**:
+  - Created an MPG (Minutes Per Game) column to filter and sort players with less than 20 MPG.
+  - Developed measures using DAX to identify and display spikes or the absence of spikes in players whose minutes increased by more than 5.
+  - Created a calculated column to perform per-minute analysis.  
   - Players with less than 20 MPG but fluctuating minutes.
   - Consistently or increasingly strong performances when given more playtime.
 
